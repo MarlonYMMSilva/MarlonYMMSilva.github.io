@@ -1,0 +1,14 @@
+.Bordered {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.Profile-image {
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+}
+
+.Profile-table {
+    padding-right: 20px;
+}

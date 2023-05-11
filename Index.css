@@ -1,14 +1,17 @@
-.Bordered {
-    border: 1px solid;
-    border-collapse: collapse;
+body {
+    background-color: #F1F6F9;
 }
 
-.Profile-image {
+a img {
     height: 250px;
     width: 250px;
     border-radius: 200px;
 }
 
-.Profile-table {
-    padding-right: 20px;
+hr {
+    color: #212A3E;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3%;
 }
